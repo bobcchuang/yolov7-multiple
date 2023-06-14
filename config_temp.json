@@ -1,0 +1,9 @@
+{
+        "model_path": "",
+        "anchors_path": "",
+        "classes_path": "",
+        "score" : 0.5,
+        "iou" : 0.4,
+        "model_image_size" : [416, 416],
+        "gpu_num" : 1
+}
